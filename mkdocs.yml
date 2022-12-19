@@ -1,0 +1,14 @@
+nav:
+  - News: news.md
+  - Overview: overview.md
+  - Architecture: architecture.md
+  - Prerequisites: prerequisites.md
+  - Getting Started: getting-started.md
+  - Features: features.md
+  - CLI Reference: cli-reference.md
+  - APIs: apis.md
+  - Tutorials: tutorials.md
+  - Operations and Troubleshooting: operations-and-troubleshooting.md
+  - Contact and Support: contact-and-support.md
+
+docs_dir: docs

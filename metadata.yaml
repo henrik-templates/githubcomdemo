@@ -1,0 +1,18 @@
+kind: Component
+metadata:
+  displayName: github.com demo 
+  description: 
+spec:
+  type:
+    name: ui
+    categories:
+      - dxp
+      - angular
+      - luigi
+  template:
+    version: 0.3.0
+    name: DXP Extension Template
+  team:
+    name: 
+    productOwner: 
+    technicalOwner: 
